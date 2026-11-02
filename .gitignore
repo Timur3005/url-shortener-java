@@ -1,0 +1,6 @@
+/target/
+/data/
+/.idea/
+*.iml
+.DS_Store
+/.superpowers/
